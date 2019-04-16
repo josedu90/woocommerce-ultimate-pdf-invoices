@@ -1,0 +1,17 @@
+<wpml-config>
+	<admin-texts>
+		<key name="woocommerce_pdf_invoices_options">
+			<key name="headerTopLeftText" />
+			<key name="headerTopMiddleText" />
+			<key name="headerTopRightText" />
+			<key name="addressTextLeft" />
+			<key name="addressTextRight" />
+			<key name="contentTextIntro" />
+			<key name="contentTextOutro" />
+			<key name="footerTopLeftText" />
+			<key name="footerTopMiddleLeftText" />
+			<key name="footerTopMiddleRightText" />
+			<key name="footerTopRightText" />
+		</key> 
+	</admin-texts>
+</wpml-config>

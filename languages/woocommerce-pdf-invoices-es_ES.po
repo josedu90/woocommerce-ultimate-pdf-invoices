@@ -1,0 +1,563 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce PDF Invoices\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-09 08:56+0000\n"
+"PO-Revision-Date: 2018-11-09 08:58+0000\n"
+"Last-Translator: WeLaunch <support@welaunch.io>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/options-init.php:289 admin/options-init.php:601
+msgid "1/1"
+msgstr "1/1"
+
+#: admin/options-init.php:290 admin/options-init.php:602
+msgid "1/2 + 1/2"
+msgstr "1/2 + 1/2"
+
+#: admin/options-init.php:291 admin/options-init.php:603
+msgid "1/3 + 1/3 + 1/3"
+msgstr "1/3 + 1/3 + 1/3"
+
+#: admin/options-init.php:604
+msgid "1/4 + 1/4 + 1/4 + 1/4"
+msgstr "1/4 + 1/4 + 1/4 + 1/4"
+
+#: admin/options-init.php:91
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr "<p> ¿Necesitas ayuda? Por favor use la función de comentarios en codecanyon. </p>"
+
+#: admin/options-init.php:825
+msgid "Add some stylesheet if you want."
+msgstr "Agrega un poco de hoja de estilo si quieres."
+
+#: admin/options-init.php:435
+msgid "Address"
+msgstr "Dirección"
+
+#: admin/options-init.php:454
+msgid "Address Text Left"
+msgstr "Dirección de texto a la izquierda"
+
+#: admin/options-init.php:470
+msgid "Address Text Right"
+msgstr "Dirección de texto a la derecha"
+
+#: admin/options-init.php:801
+msgid "Advanced settings"
+msgstr "Ajustes avanzados"
+
+#: admin/options-init.php:142
+msgid "Attach Invoice to Email"
+msgstr "Adjuntar factura al correo electrónico"
+
+#: admin/options-init.php:143
+msgid "Attach invoices automatically to orders."
+msgstr "Adjuntar facturas automáticamente a los pedidos."
+
+#: admin/options-init.php:334 admin/options-init.php:369
+#: admin/options-init.php:403 admin/options-init.php:648
+#: admin/options-init.php:688 admin/options-init.php:727
+#: admin/options-init.php:765
+msgid "Blog information"
+msgstr "Información del blog"
+
+#: admin/options-init.php:323 admin/options-init.php:637
+msgid "Bottom"
+msgstr "Fondo"
+
+#: admin/options-init.php:483
+msgid "Content"
+msgstr "Contenido"
+
+#: admin/options-init.php:491
+msgid "Content Intro Text"
+msgstr "Contenido de texto introductorio"
+
+#: admin/options-init.php:537
+msgid "Content Outro Text"
+msgstr "Contenido de texto externo"
+
+#: admin/class-woocommerce-pdf-invoices-admin.php:193
+msgid "Create Invoice"
+msgstr "Crear factura"
+
+#: admin/options-init.php:135
+msgid "Create Invoices Automatically"
+msgstr "Crear facturas automáticamente"
+
+#: admin/options-init.php:824
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: admin/options-init.php:802
+msgid "Custom stylesheet / javascript."
+msgstr "Hoja de estilo personalizada / javascript."
+
+#: admin/options-init.php:335 admin/options-init.php:370
+#: admin/options-init.php:404 admin/options-init.php:649
+#: admin/options-init.php:689 admin/options-init.php:728
+#: admin/options-init.php:766
+msgid "Custom text"
+msgstr "Texto personalizado"
+
+#. Author of the plugin
+msgid "DB-Dzine"
+msgstr "DB-Dzine"
+
+#: admin/options-init.php:202
+msgid "Default Font"
+msgstr "Fuente predeterminada"
+
+#: admin/options-init.php:226
+msgid "Default font size"
+msgstr "Tamaño de fuente predeterminado"
+
+#: admin/options-init.php:235
+msgid "Default line height"
+msgstr "Altura de línea predeterminada"
+
+#: admin/class-woocommerce-pdf-invoices-admin.php:135
+msgid "Download Invoice"
+msgstr "Descargar factura"
+
+#: admin/class-woocommerce-pdf-invoices-admin.php:187
+#: public/class-woocommerce-pdf-invoices-public.php:229
+msgid "Download Invoice (PDF)"
+msgstr "Descargar factura (PDF)"
+
+#: admin/options-init.php:207
+msgid "Droid Sans"
+msgstr "Droid Sans"
+
+#: admin/options-init.php:208
+msgid "Droid Serif"
+msgstr "Droid Serif"
+
+#: admin/options-init.php:128 admin/options-init.php:253
+#: admin/options-init.php:564
+msgid "Enable"
+msgstr "Habilitar"
+
+#: admin/options-init.php:809
+msgid "Enable Debug Mode"
+msgstr "Habilitar el modo de depuración"
+
+#: admin/options-init.php:565
+msgid "Enable footer"
+msgstr "Habilitar pie de página"
+
+#: admin/options-init.php:254
+msgid "Enable header"
+msgstr "Habilitar encabezado"
+
+#: admin/options-init.php:816
+msgid "Enable MPDF Debug Mode"
+msgstr "Habilitar el modo de depuración de MPDF"
+
+#: admin/options-init.php:129
+msgid "Enable PDF Invoices to use the options below"
+msgstr "Habilitar facturas PDF para usar las opciones a continuación"
+
+#: admin/options-init.php:506
+msgid "Even Items Background Color"
+msgstr "Incluso los elementos de color de fondo"
+
+#: admin/options-init.php:514
+msgid "Even Items Text Color"
+msgstr "Incluso los artículos de color de texto"
+
+#: admin/options-init.php:338 admin/options-init.php:373
+#: admin/options-init.php:407 admin/options-init.php:652
+#: admin/options-init.php:692 admin/options-init.php:731
+#: admin/options-init.php:769
+msgid "Export Information"
+msgstr "Exportar informacion"
+
+#: admin/options-init.php:556
+msgid "Footer"
+msgstr "Pie de página"
+
+#: admin/options-init.php:572
+msgid "Footer background color"
+msgstr "Color de fondo de pie de página"
+
+#: admin/options-init.php:589
+msgid "Footer font size"
+msgstr "Tamaño de fuente de pie de página"
+
+#: admin/options-init.php:622
+msgid "Footer Height"
+msgstr "Altura de pie de página"
+
+#: admin/options-init.php:598
+msgid "Footer Layout"
+msgstr "Diseño de pie de página"
+
+#: admin/options-init.php:612
+msgid "Footer Margin"
+msgstr "Margen de pie de página"
+
+#: admin/options-init.php:581
+msgid "Footer text color"
+msgstr "Color del texto del pie de página"
+
+#: admin/options-init.php:120
+msgid "General"
+msgstr "General"
+
+#. Description of the plugin
+msgid ""
+"Give your visitors the option to create a PDF or Word-File from your "
+"Products."
+msgstr "Ofrezca a sus visitantes la opción de crear un archivo PDF o Word desde sus productos."
+
+#: admin/options-init.php:245
+msgid "Header"
+msgstr "Encabezamiento"
+
+#: admin/options-init.php:261
+msgid "Header background color"
+msgstr "Color de fondo del encabezado"
+
+#: admin/options-init.php:277
+msgid "Header font size"
+msgstr "Tamaño de fuente del encabezado"
+
+#: admin/options-init.php:308
+msgid "Header Height"
+msgstr "Altura del encabezado"
+
+#: admin/options-init.php:286
+msgid "Header Layout"
+msgstr "Diseño de encabezado"
+
+#: admin/options-init.php:298
+msgid "Header Margin"
+msgstr "Margen de encabezado"
+
+#: admin/options-init.php:269
+msgid "Header text color"
+msgstr "Color del texto del encabezado"
+
+#. URI of the plugin
+msgid "http://woocommerce.db-dzine.de"
+msgstr "http://woocommerce.db-dzine.de"
+
+#. Author URI of the plugin
+msgid "http://www.db-dzine.de"
+msgstr "http://www.db-dzine.de"
+
+#: admin/options-init.php:337 admin/options-init.php:372
+#: admin/options-init.php:406 admin/options-init.php:651
+#: admin/options-init.php:691 admin/options-init.php:730
+#: admin/options-init.php:768
+msgid "Image"
+msgstr "Imagen"
+
+#: admin/options-init.php:90
+msgid "Information"
+msgstr "Información"
+
+#: admin/options-init.php:164
+msgid ""
+"Instead of downloading the invoice it will show the PDF directly in browser."
+msgstr "En lugar de descargar la factura, mostrará el PDF directamente en el navegador."
+
+#: admin/options-init.php:157
+msgid "Instead of showing the tax amount also show the tax rate."
+msgstr "En lugar de mostrar el monto del impuesto también se muestra la tasa del impuesto."
+
+#: public/class-woocommerce-pdf-invoices-public.php:223
+msgid "Invoice (PDF)"
+msgstr "Factura (PDF)"
+
+#: admin/options-init.php:209
+msgid "Lato"
+msgstr "Lato"
+
+#: admin/options-init.php:171
+msgid "Layout"
+msgstr "Diseño"
+
+#: admin/options-init.php:210
+msgid "Lora"
+msgstr "Lora"
+
+#: admin/options-init.php:211
+msgid "Merriweather"
+msgstr "Merriweather"
+
+#: admin/options-init.php:322 admin/options-init.php:636
+msgid "Middle"
+msgstr "Medio"
+
+#: admin/options-init.php:206
+msgid "Mono"
+msgstr "Mono"
+
+#: admin/options-init.php:212
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: admin/options-init.php:115 admin/options-init.php:834
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr "¿Necesita ayuda? Por favor use la función de comentarios en codecanyon."
+
+#: admin/class-woocommerce-pdf-invoices-admin.php:191
+msgid "No files uploaded."
+msgstr "No hay archivos subidos."
+
+#: public/class-woocommerce-pdf-invoices-generator.php:92
+msgid "No Woo Order Found"
+msgstr "No se ha encontrado ninguna orden Woo"
+
+#: admin/options-init.php:333 admin/options-init.php:368
+#: admin/options-init.php:402 admin/options-init.php:647
+#: admin/options-init.php:687 admin/options-init.php:726
+#: admin/options-init.php:764
+msgid "None"
+msgstr "Ninguna"
+
+#: admin/options-init.php:522
+msgid "Odd Items Background Color"
+msgstr "Color de fondo de los elementos impares"
+
+#: admin/options-init.php:530
+msgid "Odd Items Text Color"
+msgstr "Color de texto de elementos impares"
+
+#: admin/options-init.php:213
+msgid "Open sans"
+msgstr "Sans abierto"
+
+#: admin/options-init.php:214
+msgid "Open Sans Condensed"
+msgstr "Open Sans Condensed"
+
+#: admin/options-init.php:215
+msgid "Oswald"
+msgstr "Oswald"
+
+#: public/class-woocommerce-pdf-invoices-generator.php:658
+msgid "Page:"
+msgstr "Página:"
+
+#: admin/options-init.php:336 admin/options-init.php:371
+#: admin/options-init.php:405 admin/options-init.php:650
+#: admin/options-init.php:690 admin/options-init.php:729
+#: admin/options-init.php:767
+msgid "Pagenumber"
+msgstr "Número de página"
+
+#: admin/class-woocommerce-pdf-invoices-admin.php:158
+msgid "PDF Invoice"
+msgstr "Factura en PDF"
+
+#: admin/options-init.php:113
+msgid "PDF Invoices"
+msgstr "Facturas PDF"
+
+#: admin/options-init.php:136
+msgid "PDF invoices will be created for each order automatically."
+msgstr "Las facturas en PDF se crearán para cada pedido automáticamente."
+
+#: public/class-woocommerce-pdf-invoices-generator.php:473
+msgid "Pos."
+msgstr "Pos."
+
+#: admin/options-init.php:832
+msgid "Preview"
+msgstr "Avance"
+
+#: public/class-woocommerce-pdf-invoices-generator.php:476
+msgid "Price"
+msgstr "Precio"
+
+#: public/class-woocommerce-pdf-invoices-generator.php:474
+msgid "Product"
+msgstr "Producto"
+
+#: admin/options-init.php:216
+msgid "PT Sans"
+msgstr "PT Sans"
+
+#: admin/options-init.php:339 admin/options-init.php:374
+#: admin/options-init.php:408 admin/options-init.php:653
+#: admin/options-init.php:693 admin/options-init.php:732
+#: admin/options-init.php:770
+msgid "QR-Code"
+msgstr "Código QR"
+
+#: public/class-woocommerce-pdf-invoices-generator.php:475
+msgid "Qty"
+msgstr "Cantidad"
+
+#: admin/options-init.php:219
+msgid "Raleway"
+msgstr "Raleway"
+
+#: admin/options-init.php:163
+msgid "Render Invoice instead of Download"
+msgstr "Facturar factura en lugar de descargar"
+
+#: admin/options-init.php:204
+msgid "Sans"
+msgstr "Sans"
+
+#: admin/class-woocommerce-pdf-invoices-admin.php:210
+msgid "Select Order ID"
+msgstr "Seleccione ID de pedido"
+
+#: admin/options-init.php:205
+msgid "Serif"
+msgstr "Serif"
+
+#: admin/options-init.php:817
+msgid "Show image , font or other errors in the PDF Rendering engine."
+msgstr "Muestra la imagen, la fuente u otros errores en el motor de procesamiento de PDF."
+
+#: admin/options-init.php:150
+msgid "Show Invoice in Thank you and Order detail pages."
+msgstr "Mostrar factura en las páginas de detalles de agradecimiento y pedido."
+
+#: admin/options-init.php:149
+msgid "Show Invoice to Customers"
+msgstr "Mostrar factura a clientes"
+
+#: admin/options-init.php:156
+msgid "Show Tax Rates"
+msgstr "Mostrar tasas de impuestos"
+
+#: admin/options-init.php:218
+msgid "Slabo"
+msgstr "Slabo"
+
+#: admin/options-init.php:217
+msgid "Source Sans Pro"
+msgstr "Fuente Sans Pro"
+
+#: admin/options-init.php:195
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: admin/options-init.php:810
+msgid "This stops creating the PDF and shows the plain HTML."
+msgstr "Esto deja de crear el PDF y muestra el HTML plano."
+
+#: admin/options-init.php:321 admin/options-init.php:635
+msgid "Top"
+msgstr "Parte superior"
+
+#: admin/options-init.php:644
+msgid "Top Left Footer"
+msgstr "Pie superior izquierdo"
+
+#: admin/options-init.php:675
+msgid "Top Left Footer Image"
+msgstr "Imagen del pie izquierdo superior"
+
+#: admin/options-init.php:660
+msgid "Top Left Footer Text"
+msgstr "Texto del pie de página superior izquierdo"
+
+#: admin/options-init.php:330
+msgid "Top Left Header"
+msgstr "Encabezado superior izquierdo"
+
+#: admin/options-init.php:356
+msgid "Top Left Header Image"
+msgstr "Imagen del encabezado superior izquierdo"
+
+#: admin/options-init.php:346
+msgid "Top Left Header Text"
+msgstr "Texto del encabezado superior izquierdo"
+
+#: admin/options-init.php:365
+msgid "Top Middle Header"
+msgstr "Encabezado medio superior"
+
+#: admin/options-init.php:390
+msgid "Top Middle Header Image"
+msgstr "Imagen del encabezado medio superior"
+
+#: admin/options-init.php:380
+msgid "Top Middle Header Text"
+msgstr "Texto del encabezado medio superior"
+
+#: admin/options-init.php:684
+msgid "Top Middle Left Footer"
+msgstr "Pie medio superior izquierdo"
+
+#: admin/options-init.php:714
+msgid "Top Middle Left Footer Image"
+msgstr "Imagen de pie medio superior izquierda"
+
+#: admin/options-init.php:700
+msgid "Top Middle Left Footer Text"
+msgstr "Texto de pie medio superior izquierdo"
+
+#: admin/options-init.php:723
+msgid "Top Middle Right Footer"
+msgstr "Pie medio derecho superior"
+
+#: admin/options-init.php:752
+msgid "Top Middle Right Footer Image"
+msgstr "Imagen del pie derecho medio superior"
+
+#: admin/options-init.php:739
+msgid "Top Middle Right Footer Text"
+msgstr "Texto del pie derecho medio superior"
+
+#: admin/options-init.php:761
+msgid "Top Right Footer"
+msgstr "Pie derecho superior"
+
+#: admin/options-init.php:791
+msgid "Top Right Footer Image"
+msgstr "Imagen del pie derecho superior"
+
+#: admin/options-init.php:777
+msgid "Top Right Footer Text"
+msgstr "Texto de pie derecho superior"
+
+#: admin/options-init.php:399
+msgid "Top Right Header"
+msgstr "Encabezado derecho superior"
+
+#: admin/options-init.php:425
+msgid "Top Right Header Image"
+msgstr "Imagen del encabezado superior derecho"
+
+#: admin/options-init.php:415
+msgid "Top Right Header Text"
+msgstr "Texto del encabezado superior derecho"
+
+#: public/class-woocommerce-pdf-invoices-generator.php:477
+msgid "Total"
+msgstr "Total"
+
+#: admin/class-woocommerce-pdf-invoices-admin.php:188
+msgid "Update Invoice"
+msgstr "Actualizar factura"
+
+#: admin/options-init.php:318 admin/options-init.php:632
+msgid "Vertical Align"
+msgstr "Alineación vertical"
+
+#. Name of the plugin
+msgid "WooCommerce PDF Invoices"
+msgstr "Facturas en PDF de WooCommerce"
+
+#: woocommerce-pdf-invoices.php:88
+msgid ""
+"WooCommerce PDF Invoices requires the WooCommerce and Redux Framework plugin."
+" Please install or activate them before!"
+msgstr "Las facturas PDF de WooCommerce requieren el complemento WooCommerce y Redux Framework. ¡Instálalos o actívalos antes!"
+
